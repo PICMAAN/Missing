@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: ecf9f34ff1f683f469c38b2235dfe02c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3362768240643539301
+    second: llave 5_0
+  - first:
+      213: -7012853513450144513
+    second: llave 5_1
+  - first:
+      213: -2604850204501769407
+    second: llave 5_2
+  - first:
+      213: 1801867458435560929
+    second: llave 5_3
+  - first:
+      213: 6998099900869241173
+    second: llave 5_4
+  - first:
+      213: -8097970240879343564
+    second: llave 5_5
+  - first:
+      213: 7292371987812113788
+    second: llave 5_6
+  - first:
+      213: 9222764058597841039
+    second: llave 5_7
+  - first:
+      213: 3873397479461751377
+    second: llave 5_8
+  - first:
+      213: 4228161175551729965
+    second: llave 5_9
+  - first:
+      213: 8007870039285876500
+    second: llave 5_10
+  - first:
+      213: -2695949637474830504
+    second: llave 5_11
+  - first:
+      213: 3671454499566100413
+    second: llave 5_12
+  - first:
+      213: 7802535702712835537
+    second: llave 5_13
+  - first:
+      213: 9026573400531429595
+    second: llave 5_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: llave 5_0
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 1697
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561068de5e3faae20800000000000000
+      internalID: 3362768240643539301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave 5_1
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 1536
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc34fc92e65dae90800000000000000
+      internalID: -7012853513450144513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave 5_2
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 1497
+        width: 95
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14381934a86b9dbd0800000000000000
+      internalID: -2604850204501769407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave 5_3
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1437
+        width: 124
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5336028e4810910800000000000000
+      internalID: 1801867458435560929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave 5_4
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1390
+        width: 70
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559e10648ce3e1160800000000000000
+      internalID: 6998099900869241173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave 5_5
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 1337
+        width: 57
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438c3b688fa3e9f80800000000000000
+      internalID: -8097970240879343564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave 5_6
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1387
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ddc8fafa5b33560800000000000000
+      internalID: 7292371987812113788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave 5_7
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1414
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88d6f70c07ddff70800000000000000
+      internalID: 9222764058597841039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave 5_8
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 1318
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a06354c7211c530800000000000000
+      internalID: 3873397479461751377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave 5_9
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 306
+        width: 2143
+        height: 1054
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21ebd9ff227daa30800000000000000
+      internalID: 4228161175551729965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave 5_10
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 248
+        width: 115
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417c02b8f5ba12f60800000000000000
+      internalID: 8007870039285876500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave 5_11
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 260
+        width: 104
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85738f5a610169ad0800000000000000
+      internalID: -2695949637474830504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave 5_12
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 241
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf95a74a60a3f230800000000000000
+      internalID: 3671454499566100413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave 5_13
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 15
+        width: 94
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd508bc1ec284c60800000000000000
+      internalID: 7802535702712835537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave 5_14
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd86aa5dea4d44d70800000000000000
+      internalID: 9026573400531429595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      llave 5_0: 3362768240643539301
+      llave 5_1: -7012853513450144513
+      llave 5_10: 8007870039285876500
+      llave 5_11: -2695949637474830504
+      llave 5_12: 3671454499566100413
+      llave 5_13: 7802535702712835537
+      llave 5_14: 9026573400531429595
+      llave 5_2: -2604850204501769407
+      llave 5_3: 1801867458435560929
+      llave 5_4: 6998099900869241173
+      llave 5_5: -8097970240879343564
+      llave 5_6: 7292371987812113788
+      llave 5_7: 9222764058597841039
+      llave 5_8: 3873397479461751377
+      llave 5_9: 4228161175551729965
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
