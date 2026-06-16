@@ -1,0 +1,732 @@
+fileFormatVersion: 2
+guid: a98927d21b254b94f87995f2d8b32f01
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8283077639753272861
+    second: Llave Sprite Sheet_0
+  - first:
+      213: 6744792586268458135
+    second: Llave Sprite Sheet_1
+  - first:
+      213: -5251034690903082060
+    second: Llave Sprite Sheet_2
+  - first:
+      213: -1456545743076437435
+    second: Llave Sprite Sheet_3
+  - first:
+      213: -2228520239615105939
+    second: Llave Sprite Sheet_4
+  - first:
+      213: -6012647815297549354
+    second: Llave Sprite Sheet_5
+  - first:
+      213: -3015492947465579914
+    second: Llave Sprite Sheet_6
+  - first:
+      213: -7338465578251028857
+    second: Llave Sprite Sheet_7
+  - first:
+      213: -7650839368400509592
+    second: Llave Sprite Sheet_8
+  - first:
+      213: -5750077218382830092
+    second: Llave Sprite Sheet_9
+  - first:
+      213: 3305624507562630670
+    second: Llave Sprite Sheet_10
+  - first:
+      213: 8096465453371927404
+    second: Llave Sprite Sheet_11
+  - first:
+      213: 5020880019613009150
+    second: Llave Sprite Sheet_12
+  - first:
+      213: 8589232528909240405
+    second: Llave Sprite Sheet_13
+  - first:
+      213: 8604435306099728686
+    second: Llave Sprite Sheet_14
+  - first:
+      213: -623194677209076486
+    second: Llave Sprite Sheet_15
+  - first:
+      213: 1741982613773507581
+    second: Llave Sprite Sheet_16
+  - first:
+      213: -8880239586040439962
+    second: Llave Sprite Sheet_17
+  - first:
+      213: -7816722267011773464
+    second: Llave Sprite Sheet_18
+  - first:
+      213: 7974245342409684926
+    second: Llave Sprite Sheet_19
+  - first:
+      213: -1623246554711417504
+    second: Llave Sprite Sheet_20
+  - first:
+      213: 6207937186863058702
+    second: Llave Sprite Sheet_21
+  - first:
+      213: 6043631736023201330
+    second: Llave Sprite Sheet_22
+  - first:
+      213: 4832152587852325710
+    second: Llave Sprite Sheet_23
+  - first:
+      213: 9174388617377915460
+    second: Llave Sprite Sheet_24
+  - first:
+      213: -4415682229946657146
+    second: Llave Sprite Sheet_25
+  - first:
+      213: -979399884966640985
+    second: Llave Sprite Sheet_26
+  - first:
+      213: -6481463935872279336
+    second: Llave Sprite Sheet_27
+  - first:
+      213: 3127511435093645264
+    second: Llave Sprite Sheet_28
+  - first:
+      213: -8018980023800354290
+    second: Llave Sprite Sheet_29
+  - first:
+      213: -3437124422466663324
+    second: Llave Sprite Sheet_30
+  - first:
+      213: -6226735166825676041
+    second: Llave Sprite Sheet_31
+  - first:
+      213: -7841586229858208754
+    second: Llave Sprite Sheet_32
+  - first:
+      213: -1586274717359827102
+    second: Llave Sprite Sheet_33
+  - first:
+      213: 6900454486805415100
+    second: Llave Sprite Sheet_34
+  - first:
+      213: 1588912203242742165
+    second: Llave Sprite Sheet_35
+  - first:
+      213: -6082510992580116125
+    second: Llave Sprite Sheet_36
+  - first:
+      213: 744392420815590819
+    second: Llave Sprite Sheet_37
+  - first:
+      213: -7325534948305387724
+    second: Llave Sprite Sheet_38
+  - first:
+      213: -2093983512563408920
+    second: Llave Sprite Sheet_39
+  - first:
+      213: 3725368922512487367
+    second: Llave Sprite Sheet_40
+  - first:
+      213: 279140083148990557
+    second: Llave Sprite Sheet_41
+  - first:
+      213: -8680463701355374107
+    second: Llave Sprite Sheet_42
+  - first:
+      213: 8355273263509792628
+    second: Llave Sprite Sheet_43
+  - first:
+      213: 6790723360866061709
+    second: Llave Sprite Sheet_44
+  - first:
+      213: 844077453896987921
+    second: Llave Sprite Sheet_45
+  - first:
+      213: -298173884770466772
+    second: Llave Sprite Sheet_46
+  - first:
+      213: -8402299346655508115
+    second: Llave Sprite Sheet_47
+  - first:
+      213: 8255481652630512515
+    second: Llave Sprite Sheet_48
+  - first:
+      213: -7368958049401914725
+    second: Llave Sprite Sheet_49
+  - first:
+      213: 8530929547313825272
+    second: Llave Sprite Sheet_50
+  - first:
+      213: -7343228297069941338
+    second: Llave Sprite Sheet_51
+  - first:
+      213: 2735086782598916882
+    second: Llave Sprite Sheet_52
+  - first:
+      213: -123900310514115409
+    second: Llave Sprite Sheet_53
+  - first:
+      213: -1184696826164317626
+    second: Llave Sprite Sheet_54
+  - first:
+      213: -9048304007403437892
+    second: Llave Sprite Sheet_55
+  - first:
+      213: 2589766450195260641
+    second: Llave Sprite Sheet_56
+  - first:
+      213: 6271534895600852640
+    second: Llave Sprite Sheet_57
+  - first:
+      213: -1893327835123352684
+    second: Llave Sprite Sheet_58
+  - first:
+      213: -5178339858756057466
+    second: Llave Sprite Sheet_59
+  - first:
+      213: -2043693714083143434
+    second: Llave Sprite Sheet_60
+  - first:
+      213: -599329598427564797
+    second: Llave Sprite Sheet_61
+  - first:
+      213: -775671426411655095
+    second: Llave Sprite Sheet_62
+  - first:
+      213: -8554671038288437957
+    second: Llave Sprite Sheet_63
+  - first:
+      213: 9114483923386893132
+    second: Llave Sprite Sheet_64
+  - first:
+      213: -1458701833131618285
+    second: Llave Sprite Sheet_65
+  - first:
+      213: -8795664104939432069
+    second: Llave Sprite Sheet_66
+  - first:
+      213: -8659676765069776857
+    second: Llave Sprite Sheet_67
+  - first:
+      213: 7706477442962102235
+    second: Llave Sprite Sheet_68
+  - first:
+      213: 4306592904483505129
+    second: Llave Sprite Sheet_69
+  - first:
+      213: -2901169649837165742
+    second: Llave Sprite Sheet_70
+  - first:
+      213: -258412099574419388
+    second: Llave Sprite Sheet_71
+  - first:
+      213: -2617337598104593125
+    second: Llave Sprite Sheet_72
+  - first:
+      213: -2986648618903848
+    second: Llave Sprite Sheet_73
+  - first:
+      213: -5051543508662409809
+    second: Llave Sprite Sheet_74
+  - first:
+      213: -6872406967630780579
+    second: Llave Sprite Sheet_75
+  - first:
+      213: -6403924496777561287
+    second: Llave Sprite Sheet_76
+  - first:
+      213: 1482317712960217560
+    second: Llave Sprite Sheet_77
+  - first:
+      213: -7935710930710714300
+    second: Llave Sprite Sheet_78
+  - first:
+      213: -8373376281279224488
+    second: Llave Sprite Sheet_79
+  - first:
+      213: -7203080013190458547
+    second: Llave Sprite Sheet_80
+  - first:
+      213: 1334079695880653151
+    second: Llave Sprite Sheet_81
+  - first:
+      213: -1972265909361399090
+    second: Llave Sprite Sheet_82
+  - first:
+      213: -3849999038925455181
+    second: Llave Sprite Sheet_83
+  - first:
+      213: 230629291370658766
+    second: Llave Sprite Sheet_84
+  - first:
+      213: 7018979773716259186
+    second: Llave Sprite Sheet_85
+  - first:
+      213: -5053063554745992700
+    second: Llave Sprite Sheet_86
+  - first:
+      213: -5037713656870393338
+    second: Llave Sprite Sheet_87
+  - first:
+      213: 1992864458855966869
+    second: Llave Sprite Sheet_88
+  - first:
+      213: 6527666156267236926
+    second: Llave Sprite Sheet_89
+  - first:
+      213: -4894384113194794698
+    second: Llave Sprite Sheet_90
+  - first:
+      213: 8447038828756226729
+    second: Llave Sprite Sheet_91
+  - first:
+      213: -2879392435077786967
+    second: Llave Sprite Sheet_92
+  - first:
+      213: 8528972617419036627
+    second: Llave Sprite Sheet_93
+  - first:
+      213: -1323765060438843502
+    second: Llave Sprite Sheet_94
+  - first:
+      213: 3306856390641343696
+    second: Llave Sprite Sheet_95
+  - first:
+      213: 6122489436549856901
+    second: Llave Sprite Sheet_96
+  - first:
+      213: -4561889600985756331
+    second: Llave Sprite Sheet_97
+  - first:
+      213: 2246826736981792420
+    second: Llave Sprite Sheet_98
+  - first:
+      213: 1131572416199119856
+    second: Llave Sprite Sheet_99
+  - first:
+      213: 219905348949224546
+    second: Llave Sprite Sheet_100
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Llave Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 3795
+        width: 2705
+        height: 983
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54252d02d5f49cbe0800000000000000
+      internalID: -1456545743076437435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Llave Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 4940
+        y: 3795
+        width: 2156
+        height: 983
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6429f636a4b211e0800000000000000
+      internalID: -2228520239615105939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Llave Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 9036
+        y: 3734
+        width: 2290
+        height: 1200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db39a91ba8ce8ca0800000000000000
+      internalID: -6012647815297549354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Llave Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 13132
+        y: 3684
+        width: 2167
+        height: 1161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6725e9b1421d626d0800000000000000
+      internalID: -3015492947465579914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Llave Sprite Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 9029
+        y: 1713
+        width: 2163
+        height: 1574
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a2d6c972cd6b090800000000000000
+      internalID: -8018980023800354290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Llave Sprite Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 13107
+        y: 1803
+        width: 2181
+        height: 1545
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb489caabc653cf50800000000000000
+      internalID: 6900454486805415100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Llave Sprite Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1920
+        width: 2187
+        height: 1280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591219dfa33fc0610800000000000000
+      internalID: 1588912203242742165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Llave Sprite Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 4940
+        y: 2083
+        width: 2156
+        height: 984
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5d43876fc945a00800000000000000
+      internalID: 744392420815590819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Llave Sprite Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 14
+        width: 2169
+        height: 1471
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21bacaa00faf4f520800000000000000
+      internalID: 2735086782598916882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Llave Sprite Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 4940
+        y: 364
+        width: 2156
+        height: 983
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64271fd638c1f8fe0800000000000000
+      internalID: -1184696826164317626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Llave Sprite Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 8461
+        y: 349
+        width: 2744
+        height: 1047
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb089faf177fd6280800000000000000
+      internalID: -9048304007403437892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 971fab0da6301584aaefc527dc4c81b2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Llave Sprite Sheet_0: -8283077639753272861
+      Llave Sprite Sheet_1: 6744792586268458135
+      Llave Sprite Sheet_10: 3305624507562630670
+      Llave Sprite Sheet_11: 8096465453371927404
+      Llave Sprite Sheet_12: 5020880019613009150
+      Llave Sprite Sheet_13: 8589232528909240405
+      Llave Sprite Sheet_14: 8604435306099728686
+      Llave Sprite Sheet_15: -623194677209076486
+      Llave Sprite Sheet_16: 1741982613773507581
+      Llave Sprite Sheet_17: -8880239586040439962
+      Llave Sprite Sheet_18: -7816722267011773464
+      Llave Sprite Sheet_19: 7974245342409684926
+      Llave Sprite Sheet_2: -5251034690903082060
+      Llave Sprite Sheet_20: -1623246554711417504
+      Llave Sprite Sheet_21: 6207937186863058702
+      Llave Sprite Sheet_22: 6043631736023201330
+      Llave Sprite Sheet_23: 4832152587852325710
+      Llave Sprite Sheet_24: 9174388617377915460
+      Llave Sprite Sheet_25: -4415682229946657146
+      Llave Sprite Sheet_26: -979399884966640985
+      Llave Sprite Sheet_27: -6481463935872279336
+      Llave Sprite Sheet_28: 3127511435093645264
+      Llave Sprite Sheet_29: -8018980023800354290
+      Llave Sprite Sheet_3: -1456545743076437435
+      Llave Sprite Sheet_30: -3437124422466663324
+      Llave Sprite Sheet_31: -6226735166825676041
+      Llave Sprite Sheet_32: -7841586229858208754
+      Llave Sprite Sheet_33: -1586274717359827102
+      Llave Sprite Sheet_34: 6900454486805415100
+      Llave Sprite Sheet_35: 1588912203242742165
+      Llave Sprite Sheet_36: -6082510992580116125
+      Llave Sprite Sheet_37: 744392420815590819
+      Llave Sprite Sheet_38: -7325534948305387724
+      Llave Sprite Sheet_39: -2093983512563408920
+      Llave Sprite Sheet_4: -2228520239615105939
+      Llave Sprite Sheet_40: 3725368922512487367
+      Llave Sprite Sheet_41: 279140083148990557
+      Llave Sprite Sheet_42: -8680463701355374107
+      Llave Sprite Sheet_43: 8355273263509792628
+      Llave Sprite Sheet_44: 6790723360866061709
+      Llave Sprite Sheet_45: 844077453896987921
+      Llave Sprite Sheet_46: -298173884770466772
+      Llave Sprite Sheet_47: -8402299346655508115
+      Llave Sprite Sheet_48: 8255481652630512515
+      Llave Sprite Sheet_49: -7368958049401914725
+      Llave Sprite Sheet_5: -6012647815297549354
+      Llave Sprite Sheet_50: 8530929547313825272
+      Llave Sprite Sheet_51: -7343228297069941338
+      Llave Sprite Sheet_52: 2735086782598916882
+      Llave Sprite Sheet_53: -123900310514115409
+      Llave Sprite Sheet_54: -1184696826164317626
+      Llave Sprite Sheet_55: -9048304007403437892
+      Llave Sprite Sheet_56: 2589766450195260641
+      Llave Sprite Sheet_57: 6271534895600852640
+      Llave Sprite Sheet_58: -1893327835123352684
+      Llave Sprite Sheet_59: -5178339858756057466
+      Llave Sprite Sheet_6: -3015492947465579914
+      Llave Sprite Sheet_60: -2043693714083143434
+      Llave Sprite Sheet_61: -599329598427564797
+      Llave Sprite Sheet_62: -775671426411655095
+      Llave Sprite Sheet_63: -8554671038288437957
+      Llave Sprite Sheet_64: 9114483923386893132
+      Llave Sprite Sheet_65: -1458701833131618285
+      Llave Sprite Sheet_66: -8795664104939432069
+      Llave Sprite Sheet_67: -8659676765069776857
+      Llave Sprite Sheet_7: -7338465578251028857
+      Llave Sprite Sheet_8: -7650839368400509592
+      Llave Sprite Sheet_9: -5750077218382830092
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
