@@ -31,6 +31,13 @@ public class MovimientoMadre : MonoBehaviour
 
     private void Movimiento()
     {
+        if (DialogoManager.instancia != null && DialogoManager.instancia.dialogoActivo)
+        {
+            rig.linearVelocity = Vector2.zero;
+            anim.SetFloat("camina", 0);
+            return;
+        }
+
         float horizontal = Input.GetAxis("Horizontal");
         float vertical = Input.GetAxis("Vertical");
 
